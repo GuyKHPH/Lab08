@@ -33,3 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
+https://covids-340f5.web.app/
